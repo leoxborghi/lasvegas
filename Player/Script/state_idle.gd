@@ -5,7 +5,7 @@ class_name State_Idle extends State
 
 
 func Enter() -> void:
-	player.UpdateAniation("idle")
+	player.UpdateAnimation("idle")
 	pass
 
 
